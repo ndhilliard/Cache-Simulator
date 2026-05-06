@@ -23,7 +23,7 @@ Class Breakdown:
 - `FIFOCache` - inserts at tail, evicts from head
 - `HashMap` - Custom hash map, fixed 50 bucket array
 
-- `ain.cpp` - runs a simulation with 10 blocks, 20 random write operations, shows what get evicted and when
+- `Main.cpp` - runs a simulation with 10 blocks, 20 random write operations, shows what get evicted and when
 
 ## Running it
 
