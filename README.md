@@ -16,7 +16,7 @@ The core structure is a doubly linked list for ordering + a hash map for 0(1) lo
 
 Class Breakdown:
 
-- `Bbject` - base calss evertyhing enherits from
+- `Object` - base calss evertyhing enherits from
 - `Block` - represents a single cache entry (has a tag, data, ect)
 - `Cache` - abstract base class with the shared logic
 - `LRUCache` - Inserts at head, ecivts from tail
